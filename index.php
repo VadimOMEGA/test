@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php
+
+        echo "Mesaj";
+
+    ?>
 </body>
 </html>
